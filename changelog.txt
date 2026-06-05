@@ -1,0 +1,33 @@
+Change Log
+
+Group: TXC_9
+
+CHANGES
+-------
+
+Notebook
+
+1. delta changed from 0.06 to 0.02 (required n per group changed from 56 to 503, this was discussed with professor after presentation class)
+
+2. CTA click rate chart explanation corrected
+
+3. Sampling distribution explanation corrected
+
+4. Balance check explanation updated
+
+5. Validity section: traffic imbalance corrected from 3:1 to 4:1; balance check confounds added as internal validity threat
+
+6. Discussion section: filled in with actual results
+
+Presentation 
+
+1. Added slides for estimator choice, ATE, OLS validation, heterogeneous treatment effects, and internal and external validity
+
+2. Added section on AI use
+
+3. Added final submission contribution section
+
+4. Added final note slide
+
+
+
